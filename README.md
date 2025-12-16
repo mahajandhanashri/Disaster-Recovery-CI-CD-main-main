@@ -95,6 +95,6 @@ terraform destroy -auto-approve
 ---
 
 ## 👨‍💻 Author  
-🚀 Developed by **TejalMogal**  
-📧 Contact: **Tejalmogal56@gmail.com**  
+🚀 Developed by **DhanashriMahajan**  
+📧 Contact: **Dhanashrimahajan816@gmail.com**  
 
